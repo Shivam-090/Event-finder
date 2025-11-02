@@ -2,6 +2,9 @@
 
 **Event Finder** is a full-stack web application that allows users to **discover, create, and manage events**.  
 It connects event organizers with attendees, enabling smooth registration, search, and event tracking — all in one place.
+For Accessing the Admin dashboard use
+Email: admin@example.com
+Password: Admin090
 
 ---
 
